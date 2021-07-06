@@ -31,7 +31,7 @@ The project aims at building a Scan-Time Crypter in C++, that can assist a malwa
 
 ### Scan Results:
 
-![](/image/scanresult.png)
+![](/Image/scanresult.png)
 
 ### Conclusion
 
